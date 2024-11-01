@@ -1,0 +1,256 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wordpress-filter\n"
+"POT-Creation-Date: 2009-10-03 18:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-filter.php:28
+msgid "WordPress Filter"
+msgstr ""
+
+#: wp-filter.php:58 wp-filter.php:255 wp-filter.php:453
+msgid "Remove Catch"
+msgstr ""
+
+#: wp-filter.php:78 wp-filter.php:292 wp-filter.php:481
+msgid "Remove Action"
+msgstr ""
+
+#: wp-filter.php:240 wp-filter.php:368 wp-filter.php:443
+msgid "If these conditions are met:"
+msgstr ""
+
+#: wp-filter.php:244 wp-filter.php:447
+msgid "Condition(s) to be met:"
+msgstr ""
+
+#: wp-filter.php:246 wp-filter.php:449
+msgid "Condition Data:"
+msgstr ""
+
+#: wp-filter.php:269 wp-filter.php:350 wp-filter.php:442 wp-filter.php:466
+msgid "Add Filter"
+msgstr ""
+
+#: wp-filter.php:270 wp-filter.php:467
+msgid "Add Catch"
+msgstr ""
+
+#: wp-filter.php:274 wp-filter.php:369 wp-filter.php:471
+msgid "Then perform these actions:"
+msgstr ""
+
+#: wp-filter.php:278 wp-filter.php:475
+msgid "Action(s) to be performed:"
+msgstr ""
+
+#: wp-filter.php:280 wp-filter.php:477
+msgid "Action Data:"
+msgstr ""
+
+#: wp-filter.php:292 wp-filter.php:381 wp-filter.php:481
+msgid "Remove Filter"
+msgstr ""
+
+#: wp-filter.php:306 wp-filter.php:307 wp-filter.php:494 wp-filter.php:495
+msgid "Add Action"
+msgstr ""
+
+#: wp-filter.php:318 wp-filter.php:506
+msgid "* All fields are required."
+msgstr ""
+
+#: wp-filter.php:319 wp-filter.php:507
+msgid "* All conditions must be met for actions to be applied."
+msgstr ""
+
+#: wp-filter.php:320 wp-filter.php:508
+msgid ""
+"* Fields requiring tags should have the tags comma separated (tag1, tag2, "
+"etc)."
+msgstr ""
+
+#: wp-filter.php:332
+msgid "The specified filter could not be found.  Please try again."
+msgstr ""
+
+#: wp-filter.php:338
+msgid "WordPress Filter Options"
+msgstr ""
+
+#: wp-filter.php:349 wp-filter.php:356
+msgid "Current Filters"
+msgstr ""
+
+#: wp-filter.php:351 wp-filter.php:382 wp-filter.php:520
+msgid "Edit Filter"
+msgstr ""
+
+#: wp-filter.php:352 wp-filter.php:524
+msgid "Import Filter"
+msgstr ""
+
+#: wp-filter.php:360
+msgid "Sorry, the filter(s) you tried to import are not valid."
+msgstr ""
+
+#: wp-filter.php:411
+msgid "Bulk Options"
+msgstr ""
+
+#: wp-filter.php:412
+msgid "Delete"
+msgstr ""
+
+#: wp-filter.php:413
+msgid "Export"
+msgstr ""
+
+#: wp-filter.php:423
+msgid "Below is your filter export:"
+msgstr ""
+
+#: wp-filter.php:425
+msgid ""
+"This can be copied into a text editor and saved to be sent to someone else "
+"or used on another blog running WordPress Filter."
+msgstr ""
+
+#: wp-filter.php:431
+msgid "You do not currently have any filters defined."
+msgstr ""
+
+#: wp-filter.php:597
+msgid "Post Title: Equals"
+msgstr ""
+
+#: wp-filter.php:598
+msgid "Post Title: Contains"
+msgstr ""
+
+#: wp-filter.php:599
+msgid "Post Content: Equals"
+msgstr ""
+
+#: wp-filter.php:600
+msgid "Post Content: Contains"
+msgstr ""
+
+#: wp-filter.php:601
+msgid "Post Content: Doesn't Contain"
+msgstr ""
+
+#: wp-filter.php:602
+msgid "Post Excerpt: Equals"
+msgstr ""
+
+#: wp-filter.php:603
+msgid "Post Excerpt: Contains"
+msgstr ""
+
+#: wp-filter.php:604
+msgid "Post Excerpt: Doesn't Contain"
+msgstr ""
+
+#: wp-filter.php:605
+msgid "Post: Has Tag"
+msgstr ""
+
+#: wp-filter.php:606
+msgid "Post: Has Category"
+msgstr ""
+
+#: wp-filter.php:607
+msgid "Custom Field: Exists"
+msgstr ""
+
+#: wp-filter.php:608
+msgid "Post Author: Equals"
+msgstr ""
+
+#: wp-filter.php:609 wp-filter.php:634
+msgid "Comment Status: Equals"
+msgstr ""
+
+#: wp-filter.php:610 wp-filter.php:635
+msgid "Ping Status: Equals"
+msgstr ""
+
+#: wp-filter.php:611 wp-filter.php:636
+msgid "Post Status: Equals"
+msgstr ""
+
+#: wp-filter.php:618
+msgid "Title: Prepend"
+msgstr ""
+
+#: wp-filter.php:619
+msgid "Title: Replace"
+msgstr ""
+
+#: wp-filter.php:620
+msgid "Title: Replace Substring"
+msgstr ""
+
+#: wp-filter.php:621
+msgid "Title: Append"
+msgstr ""
+
+#: wp-filter.php:622
+msgid "Content: Prepend"
+msgstr ""
+
+#: wp-filter.php:623
+msgid "Content: Replace"
+msgstr ""
+
+#: wp-filter.php:624
+msgid "Content: Replace Substring"
+msgstr ""
+
+#: wp-filter.php:625
+msgid "Content: Append"
+msgstr ""
+
+#: wp-filter.php:626
+msgid "Excerpt: Prepend"
+msgstr ""
+
+#: wp-filter.php:627
+msgid "Excerpt: Replace"
+msgstr ""
+
+#: wp-filter.php:628
+msgid "Excerpt: Replace Substring"
+msgstr ""
+
+#: wp-filter.php:629
+msgid "Excerpt: Append"
+msgstr ""
+
+#: wp-filter.php:630
+msgid "Tag(s): Add"
+msgstr ""
+
+#: wp-filter.php:631
+msgid "Tag(s): Remove"
+msgstr ""
+
+#: wp-filter.php:632
+msgid "Category(ies): Add"
+msgstr ""
+
+#: wp-filter.php:633
+msgid "Category(ies): Remove"
+msgstr ""

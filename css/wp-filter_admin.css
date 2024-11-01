@@ -1,0 +1,34 @@
+.ui-tabs-hide { display: none; }
+#tabs-content {margin: 10px 0 0 8px;}
+.filterSet_list td {border-bottom: 1px solid #000; padding: 5px;white-space: nowrap;}
+.filterSet_list .last_row {border-bottom: 0px solid transparent;}
+.catch_List li, .action_List li {list-style-type: disc; margin: 0 40px;}
+.filterSet_list td.wpf_tableheading {padding:5px 30px;}
+
+.tabs-nav {list-style: none;margin: 0;padding: 0 0 0 4px;}
+.tabs-nav:after { display: block;clear: both;content: " ";}
+.tabs-nav li {float: left;margin: 0 0 0 1px;min-width: 84px;}
+.tabs-nav a, .tabs-nav a span {display: block;padding: 0 10px;background: url(../images/tab.png) no-repeat;}
+.tabs-nav a {position: relative;top: 1px;z-index: 2;padding-left: 0;color: #27537a;font-size: 12px;font-weight: bold;line-height: 1.2;text-align: center;text-decoration: none;white-space: nowrap;}
+.tabs-nav .tabs-selected a {color: #000;}
+.tabs-nav .tabs-selected a, .tabs-nav a:hover, .tabs-nav a:focus, .tabs-nav a:active {background-position: 100% -150px;outline: 0; /* prevent dotted border in Firefox */}
+.tabs-nav a, .tabs-nav .tabs-disabled a:hover, .tabs-nav .tabs-disabled a:focus, .tabs-nav .tabs-disabled a:active {background-position: 100% -100px;}
+.tabs-nav a span {width: 64px;min-width: 64px;height: 18px;min-height: 18px;padding-top: 6px;padding-right: 0;}
+*>.tabs-nav a span {width: auto;height: auto;}
+.tabs-nav .tabs-selected a span {padding-top: 7px;}
+.tabs-nav .tabs-selected a span, .tabs-nav a:hover span, .tabs-nav a:focus span, .tabs-nav a:active span {background-position: 0 -50px;}
+.tabs-nav a span, .tabs-nav .tabs-disabled a:hover span, .tabs-nav .tabs-disabled a:focus span, .tabs-nav .tabs-disabled a:active span {background-position: 0 0;}
+.tabs-nav .tabs-selected a:link, .tabs-nav .tabs-selected a:visited, .tabs-nav .tabs-disabled a:link, .tabs-nav .tabs-disabled a:visited {cursor: text;}
+.tabs-nav a:hover, .tabs-nav a:focus, .tabs-nav a:active {cursor: default;}
+.tabs-nav .tabs-disabled { opacity: .4; }
+.tabs-container {border-top: 1px solid #97a5b0;padding: 1em 8px;background: #fff;}
+.ui-tabs-disabled {opacity: .4; cursor:default;}
+.ui-tabs-disabled a, .ui-tabs-disabled a:hover, .ui-tabs-disabled a span {cursor:default; color: #000;}
+
+#wpcontent select {width: 200px;}
+.form-table input {width: 400px;}
+select#bulk_EditFilters {width: 100px;}
+#wpfm_Submit {vertical-align: bottom;}
+input.filterSelector {margin:-15px 5px 0 0;padding:0;}
+
+#import_error { border: 1px solid #FF0000; background: #FF6666; padding: 10px; margin: 0 0 15px 0; width: 400px; }
